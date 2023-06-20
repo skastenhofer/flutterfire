@@ -16,7 +16,6 @@ dependencies:
   firebase_core: ^2.14.0
   firebase_core_platform_interface: ^4.8.0
   firebase_storage_platform_interface: ^4.4.3
-  # firebase_storage_web: ^3.6.3
   firebase_storage_web:
     git:
       url: https://github.com/skastenhofer/flutterfire
